@@ -42,7 +42,7 @@ main {
 .navigate li a {
     display: block;
     text-align: center;
-    background: orangered;
+    background: #E54C21;
     border-radius: 0.25rem;
     padding: 0.5rem;
     color: #fff;
